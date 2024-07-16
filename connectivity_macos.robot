@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  Dasic Robot Framework tests for checking Internet availibility
+Documentation  Basic Robot Framework tests for checking Internet availibility on MacOS
 Library  OperatingSystem
 Library    String
 Variables     ./resources/variables.yaml
